@@ -1,0 +1,12 @@
+{
+    "require": {
+        "php": "^7.4",
+        "catfan/medoo": "^2.1",
+        "ext-pdo": "*",
+        "ext-json": "*",
+        "ext-http": "*"
+    },
+    "autoload": {
+        "psr-0": {"Orange": "./classes"}
+    }
+}
